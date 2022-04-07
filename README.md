@@ -1,2 +1,2 @@
-# mutalipovrustamcourse.github.io
+# Муталипов Рустам
 Мойпервый сайт
